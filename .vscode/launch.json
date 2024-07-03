@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MyFrame",
+      "request": "launch",
+      "mainClass": "MyFrame",
+      "projectName": "teteris_7bfefea8"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
